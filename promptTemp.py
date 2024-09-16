@@ -1,2 +1,2 @@
-prompt = """your prompt here
+prompt = """
 """
