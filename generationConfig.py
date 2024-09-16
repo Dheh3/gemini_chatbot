@@ -1,3 +1,6 @@
+# use for configure the output
+
+
 import google.generativeai as genai
 
 generation_config = genai.GenerationConfig(
