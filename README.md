@@ -48,8 +48,7 @@ Project Structure
 ├── history.json           # Stores conversation history
 ├── your_script.py         # Main chatbot script
 ├── promptTemp.py          # Stores the chatbot prompt template
-├── generationConfig.py    # Generation configuration (temperature, top_k, top_p, etc.)
-└── requirements.txt       # Required packages (optional)
+└── generationConfig.py    # Generation configuration (temperature, top_k, top_p, etc.)
 
 ```
 
